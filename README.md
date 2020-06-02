@@ -11,6 +11,10 @@ simple to use. Note that this project uses well-known Telegram-bot of it's time 
 
 Can be found on telegram as [Skylee](https://t.me/skylee_bot).
 
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
+
+
+
 Join the [news channel](https://t.me/skyleeupdates) if you just want to stay in the loop about new features or
 announcements.
 
