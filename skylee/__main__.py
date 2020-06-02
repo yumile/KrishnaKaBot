@@ -26,14 +26,14 @@ Hey there! my name is *{dispatcher.bot.first_name}*. If you have any questions o
 
 I'm a group management bot built in python3, using the \
 python-telegram-bot library, and am fully opensource - you can find what makes me tick \
-[here](www.github.com/starry69/skyleebot).
+[Unknown_Hacker_X](https://t.me/Unknown_Hacker_X) . 
 
 Wanna Add me to your Group? Just click the button below!
 """
 
 buttons = [[
-InlineKeyboardButton(text="Add to Group 👥", url="t.me/skylee_bot?startgroup=true"),
-InlineKeyboardButton(text="Updates 📢", url="https://t.me/skyleeupdates")
+InlineKeyboardButton(text="Add to Group 👥", url="t.me/Gaana_Test_Bot?startgroup=true"),
+InlineKeyboardButton(text="Updates 📢", url="https://t.me/Gaana_Test_Bot")
                   ]]
 
 buttons += [[InlineKeyboardButton(text="Help & Commands ❔", callback_data="help_back")]]
